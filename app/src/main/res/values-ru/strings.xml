@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">НМедиа</string>
+    <string name="nmedia">НМедиа!</string>
+    <string name="avatar">Нетология</string>
+    <string name="remove">Удалить</string>
+    <string name="comtent_hint">Контент</string>
+    <string name="epmpty_content_error">Контент не должен быть пустым</string>
+    <string name="edit">Редактировать</string>
+    <string name="editbar">Редактирование</string>
+    <string name="chooser_share_post">Поделиться постом</string>
+    <string name="error_empty_content">Текст не может быть пустым</string>
+</resources>
